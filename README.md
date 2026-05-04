@@ -1,2 +1,2 @@
-# sirna-demo
-Demo for SIRNA
+# utah-demo
+Demo for Utah
